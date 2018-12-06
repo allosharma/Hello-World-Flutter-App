@@ -3,14 +3,11 @@
 A new Flutter application.
 
 
-![alt text](https://github.com/aloksharma9656/Hello-World-Flutter-App/blob/master/Screenshot_20181206-125203.jpg)
-
-![alt text](https://github.com/aloksharma9656/Hello-World-Flutter-App/blob/master/Screenshot_20181206-125212.jpg)
-
 <p align="center">
-  <img src="(https://github.com/aloksharma9656/Hello-World-Flutter-App/blob/master/Screenshot_20181206-125203.jpg" width="350" title="ScreenShot 1">
+  <img src="https://github.com/aloksharma9656/Hello-World-Flutter-App/blob/master/Screenshot_20181206-125203.jpg" width="350" title="ScreenShot 1">
   <img src="https://github.com/aloksharma9656/Hello-World-Flutter-App/blob/master/Screenshot_20181206-125212.jpg" width="350" alt="ScreenShot 2">
 </p>
+
 
 ## Getting Started
 
